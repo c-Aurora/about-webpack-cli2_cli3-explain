@@ -1,5 +1,5 @@
 # about-webpack-and-cli2-explain
-###关于cli2创建项目的说明，及config和build文件中文注释(注释在各个文件里)
+### 关于cli2创建项目的说明，及config和build文件中文注释(注释在各个文件里)
 > A Vue.js project
 
 ## Build Setup
@@ -18,8 +18,8 @@ npm run build
 npm run build --report
 ```
 
-###目录说明及config和build文件中文注释(注释在各个文件里)
-###vue init webpack projectName 创建
+### 目录说明及config和build文件中文注释(注释在各个文件里)
+### vue init webpack projectName 创建
 ```
 ├─build                                // webpack配置文件(都已配好，一般不需要配置)
 		│ ├─builds.js                           // 生产环境构建
