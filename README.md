@@ -20,7 +20,7 @@ npm run build --report
 
 ###目录说明及config和build文件中文注释(注释在各个文件里)
 ###vue init webpack projectName 创建
-
+```
 ├─build                                // webpack配置文件(都已配好，一般不需要配置)
 		│ ├─builds.js                           // 生产环境构建
 		│ ├─check-versions.js           // 版本检查(node,npm)
@@ -50,4 +50,4 @@ npm run build --report
 	├─package-lock.json
 	├─package.json                 // 项目及工具的依赖配置文件
 	└─README.md                  // 项目说明
-
+```
